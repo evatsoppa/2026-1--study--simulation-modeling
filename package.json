@@ -1,0 +1,14 @@
+{
+  "name": "simulation-modeling",
+  "version": "1.0.0",
+  "description": "Имитационное моделирование",
+  "main": "index.js",
+  "repository": "https://github.com/evatsoppa/2026_1__study__simulation_modeling.git",
+  "author": "evatsoppa <tsoppaeva@yandex.ru>",
+  "license": "CC-BY-4.0",
+    "config": {
+	"commitizen": {
+	    "path": "cz-customizable"
+	}
+    }
+}
