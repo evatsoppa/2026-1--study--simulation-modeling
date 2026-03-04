@@ -1,10 +1,10 @@
 {
-  "name": "simulation-modeling",
-  "version": "1.0.0",
-  "description": "Имитационное моделирование",
+  "name": "course-directory-student-template",
+  "version": "1.4.7",
+  "description": "Course Catalog Template for Students",
   "main": "index.js",
-  "repository": "https://github.com/evatsoppa/2026_1__study__simulation_modeling.git",
-  "author": "evatsoppa <tsoppaeva@yandex.ru>",
+  "repository": "git@github.com:yamadharma/course-directory-student-template.git",
+  "author": "Dmitry S. Kulyabov <yamadharma@gmail.com>",
   "license": "CC-BY-4.0",
     "config": {
 	"commitizen": {
